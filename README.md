@@ -1,5 +1,5 @@
 # Trabalho 2 da cadeira Fundamentos de Desenvolvimento de Software
-Aplicação Web + Testes Unitários
+Aplicação Web + Teste Unitário
 
 ## NOMES:
 Bernardo Klein Heitz
